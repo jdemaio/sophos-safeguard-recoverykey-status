@@ -1,0 +1,1 @@
+# sophos-safeguard-recoverykey-status
